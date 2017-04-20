@@ -45,3 +45,11 @@ When it comes to leadership I have 2 core beliefs:
 - Vision. At least a third of your time should only be invested in developing, nurturing and communicating the vision.
 - Mission. That does not mean being involved in the details. That means roadmap and high level metrics.
 - Team building
+
+## You can also find me on ...
+
+- [twitter](https://twitter.com/troessner)
+- [my blog](https://troessner.svbtle.com/)
+- [github](https://github.com/troessner)
+- [linkedin](https://www.linkedin.com/in/timo-r%C3%B6%C3%9Fner-05ab1630/)
+- [kaggle](https://www.kaggle.com/troessner)
