@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+One of my goals in life is to create something that matters together with the greatest minds of our times and to solve challenging and interesting technological problems while doing it.
 
-You can use the [editor on GitHub](https://github.com/troessner/troessner.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## My inspirations
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are many inspirations and inspirational people in my life. A more or less random selection of the top of my head:
 
-### Markdown
+- Scientists like [Yann LeCun](http://yann.lecun.com/), [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/) or [Andrew Ng](http://www.andrewng.org/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Social activists like [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) or organisations like [Field Ready](https://www.fieldready.org/)
 
-```markdown
-Syntax highlighted code block
+- Psychologist and motivational speakers like [Tony Robbins](https://www.ted.com/talks/tony_robbins_asks_why_we_do_what_we_do) or [Carol Dweck](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve#t-73105)
 
-# Header 1
-## Header 2
-### Header 3
+- Entrepreneurs like [Tony Hsieh](https://en.wikipedia.org/wiki/Tony_Hsieh) or [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk). I know it's lame but I also believe Steve Jobs was a genius :)
 
-- Bulleted
-- List
+- Inventors like [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) or [Thomas Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
 
-1. Numbered
-2. List
+- Mathematicians like [Bernhard Riemann](https://en.wikipedia.org/wiki/Bernhard_Riemann) or [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler)
 
-**Bold** and _Italic_ and `Code` text
+My favourite inspirational quote at the moment is from Aaron Swartz:
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/troessner/troessner.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.
