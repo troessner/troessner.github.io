@@ -32,8 +32,6 @@ My favourite inspirational quote at the moment is from Aaron Swartz:
 
 ## My leadership philosophy
 
-Everybody is a leader multiple times in life. You don't need a management position for that. Every time you teach somebody something your the leader and they are the student. Every time somebody teaches you something they are the leader and you are the student.
-
 When it comes to leadership I have 2 core beliefs:
 
 **What makes humans productive?**
@@ -45,5 +43,5 @@ When it comes to leadership I have 2 core beliefs:
 **What is leadership?**
 
 - Vision. At least a third of your time should only be invested in developing, nurturing and communicating the vision.
-- Mission. And no, that is not being involved in the details. That means roadmap and high level metrics.
+- Mission. That does not mean being involved in the details. That means roadmap and high level metrics.
 - Team building
