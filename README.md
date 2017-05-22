@@ -1,6 +1,6 @@
 ![Image](timo_roessner_profile_picture.jpeg)
 
-One of my goals in life is to create something that matters together with the greatest minds of our times and to solve challenging and interesting technological problems while doing it.
+My goals in life: 1) Help people 2) Meet nice people 3) Make fun stuff
 
 ## My inspirations
 
