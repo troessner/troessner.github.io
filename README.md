@@ -1,6 +1,10 @@
 ![Image](timo_roessner_profile_picture.jpeg)
 
-My goals in life: 1) Help people 2) Meet nice people 3) Make fun stuff
+## My goals in life
+
+1. Help people
+2. Meet nice people
+3. Make fun stuff
 
 ## My inspirations
 
