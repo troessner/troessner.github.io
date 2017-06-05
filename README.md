@@ -2,9 +2,9 @@
 
 ## My goals in life
 
-1. Help people
-2. Meet nice people
-3. Make fun stuff
+1. Help people. Whatever I'm mentally invested in, it should be something that either improves the situation on our planet earth or that advances science. Doing both would be nice.
+2. Meet interesting people that challenge my beliefs and from whom I can learn. 
+3. Create interesting...things. Innovative would be great, but that's not something you can force, now can't you? Topics I'm most interested in are robotics, genetics, space travel, telepathie and artificial intelligence in general.
 
 ## My inspirations
 
