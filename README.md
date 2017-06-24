@@ -54,7 +54,7 @@ When it comes to leadership I have 2 core beliefs:
 
 ## Professional experience
 
-### 1/10/2016–Present - Director of Software Engineering
+#### Oct 2016 – Present / Director of Software Engineering
 
 [Planet](https://www.planet.com/), Berlin (Germany)
 
@@ -62,7 +62,7 @@ When it comes to leadership I have 2 core beliefs:
 * Develop new and innovative products
 * Maintain existing production systems
 
-### 1/3/2014–30/9/2016 Director of Software Engineering
+#### March 2014 – Sept 2016 / Director of Software Engineering
 
 [Blacklane](https://www.blacklane.com/en), Berlin (Germany)
 
