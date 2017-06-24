@@ -52,6 +52,26 @@ When it comes to leadership I have 2 core beliefs:
 - Mission. That does not mean being involved in the details. That means roadmap and high level metrics.
 - Team building
 
+## Professional experience
+
+### 1/10/2016–Present - Director of Software Engineering
+
+[Planet](https://www.planet.com/), Berlin (Germany)
+
+* Build and extend the dev team
+* Develop new and innovative products
+* Maintain existing production systems
+
+### 1/3/2014–30/9/2016 Director of Software Engineering
+
+[Blacklane](https://www.blacklane.com/en), Berlin (Germany)
+
+* Scaling a team from 10 to 30
+* Setting up a Microservice architecture
+* Team building
+* Tech evangelism
+* Clean code
+
 ## You can also find me on ...
 
 - [twitter](https://twitter.com/troessner)
