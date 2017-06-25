@@ -58,25 +58,24 @@ When it comes to leadership I have 2 core beliefs:
 
 [Planet](https://www.planet.com/), Berlin (Germany)
 
-* Build and extend the dev team
-* Develop new and innovative products
-* Maintain existing production systems
+Planet builds, ships and operates the biggest satellite fleet in the history of mankind. As director of software engineering I'm responsible for building and scaling the software engineering team, develop new and innovative analytical products on top of our vasts amount of data and maintaining our existing production systems. Planet has a strong philanthropic aspect to everything it does and we're always helping communities and researchers to make use of our data in the best way possible.
 
 #### March 2014 – Sept 2016 / Director of Software Engineering
 
 [Blacklane](https://www.blacklane.com/en), Berlin (Germany)
 
-* Scaling a team from 10 to 30
-* Setting up a Microservice architecture
-* Team building
-* Tech evangelism
-* Clean code
+Blacklane is a ride-hailing service that is working world wide with the highest aspirations in regards to quality and customer satisfaction. As director of software engineering I was responsible for scaling the team from 10 to 30 developers, change the underlying architecture to be more microservice focused and evangelize new technologies and clean code conventions.
+
+#### April 2013 – Feb 2014 / Senior Software Developer
+
+[Hitfox Group](http://www.hitfoxgroup.com/), Berlin (Germany)
+
+The Hitfox Group is a company builder and accelerator in the Berlin startup ecosystem. As senior software developer I was working on high load production services and new products. Furthermore I was involved in building team culture, recruiting and clean code guidelines.
+
+## Education
+
+I have a Bachelor of Science in Bioinformatics from the [Freie Universität Berlin](http://www.fu-berlin.de/en/index.html) in 2005.
 
 ## You can also find me on ...
 
-- [twitter](https://twitter.com/troessner)
-- [my blog](https://troessner.svbtle.com/)
-- [github](https://github.com/troessner)
-- [instagram](https://www.instagram.com/timo.roessner/?hl=en)
-- [kaggle](https://www.kaggle.com/troessner)
-- [linkedin](https://www.linkedin.com/in/timo-r%C3%B6%C3%9Fner-05ab1630/)
+[twitter](https://twitter.com/troessner) | [my blog](https://troessner.svbtle.com/) | [github](https://github.com/troessner) | [instagram](https://www.instagram.com/timo.roessner/?hl=en) | [kaggle](https://www.kaggle.com/troessner) | [linkedin](https://www.linkedin.com/in/timo-r%C3%B6%C3%9Fner-05ab1630/)
