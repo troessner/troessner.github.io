@@ -78,4 +78,4 @@ I have a Bachelor of Science in Bioinformatics from the [Freie Universität Berl
 
 ## You can also find me on ...
 
-[twitter](https://twitter.com/troessner) | [my blog](https://troessner.svbtle.com/) | [github](https://github.com/troessner) | [instagram](https://www.instagram.com/timo.roessner/?hl=en) | [kaggle](https://www.kaggle.com/troessner) | [linkedin](https://www.linkedin.com/in/timo-r%C3%B6%C3%9Fner-05ab1630/)
+[twitter](https://twitter.com/troessner) | [my blog](https://troessner.svbtle.com/) | [github](https://github.com/troessner) | [kaggle](https://www.kaggle.com/troessner) | [linkedin](https://www.linkedin.com/in/timo-r%C3%B6%C3%9Fner-05ab1630/)
