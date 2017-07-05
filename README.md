@@ -6,7 +6,7 @@
 2. Meet interesting people that challenge my beliefs and from whom I can learn. 
 3. Create interesting...things. Innovative would be great, but that's not something you can force, now can't you? Topics I'm most interested in are robotics, genetics, space travel, telepathy and artificial intelligence in general.
 
-## My inspirations
+## [My inspirations](#my-inspirations)
 
 There are many inspirations and inspirational people in my life. A more or less random selection of the top of my head:
 
@@ -26,7 +26,7 @@ My favourite inspirational quote at the moment is from Aaron Swartz:
 
 > Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.
 
-## What I bring to the table
+## [What I bring to the table](#what-i-bring-to-the-table)
 
 - Excellence in software engineering. I’ve been doing this for the last 15 years and I’m obsessed with code quality and writing elegant, maintainable code. I am a regular open source contributor and maintainer of a couple of more or less popular gems. Most notably of the awesome [Reek](https://github.com/troessner/reek) gem - check out [my github profile](https://github.com/troessner/) for more. Additionally you can find quite a few mostly technical articles on [my blog](https://troessner.svbtle.com/).
 
@@ -36,7 +36,7 @@ My favourite inspirational quote at the moment is from Aaron Swartz:
 
 - The passion to create something that might change change the world. I don't care much for money - my motivation lies elsewhere. This doesn't mean that I work for free, just that I value other things more.
 
-## My leadership philosophy
+## [My leadership philosophy](#my-leadership-philosophy)
 
 When it comes to leadership I have 2 core beliefs:
 
@@ -52,7 +52,7 @@ When it comes to leadership I have 2 core beliefs:
 - Mission. That does not mean being involved in the details. That means roadmap and high level metrics.
 - Team building
 
-## Professional experience
+## [Professional experience](#professional-experience)
 
 #### Oct 2016 – Present / Director of Software Engineering
 
@@ -72,10 +72,10 @@ Blacklane is a ride-hailing service that is working world wide with the highest 
 
 The Hitfox Group is a company builder and accelerator in the Berlin startup ecosystem. As senior software developer I was working on high load production services and new products. Furthermore I was involved in building team culture, recruiting and clean code guidelines.
 
-## Education
+## [Education](#education)
 
 I have a Bachelor of Science in Bioinformatics from the [Freie Universität Berlin](http://www.fu-berlin.de/en/index.html) in 2005.
 
-## You can also find me on ...
+## [You can also find me on ...](#find-me-on)
 
 [twitter](https://twitter.com/troessner) | [my blog](https://troessner.svbtle.com/) | [github](https://github.com/troessner) | [kaggle](https://www.kaggle.com/troessner) | [linkedin](https://www.linkedin.com/in/timo-r%C3%B6%C3%9Fner-05ab1630/)
