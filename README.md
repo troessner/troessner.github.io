@@ -1,6 +1,6 @@
 ![Image](timo_roessner_profile_picture.jpeg)
 
-## My goals in life
+## [My goals in life](#goals-in-life)
 
 1. Help people. Whatever I'm mentally invested in, it should be something that either improves the situation on our planet earth or that advances science. Doing both would be nice.
 2. Meet interesting people that challenge my beliefs and from whom I can learn. 
