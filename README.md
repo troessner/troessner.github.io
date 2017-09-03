@@ -26,6 +26,8 @@ My favourite inspirational quote at the moment is from Aaron Swartz:
 
 > Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.
 
+I follow this advice and try to read as widely as possible  - you can check out my favorite books, newsletters and articles [on my blog](https://troessner.svbtle.com/you-are-what-you-read-my-favorite-books).
+
 ## [What I bring to the table](#what-i-bring-to-the-table)
 
 - Excellence in software engineering. I’ve been doing this for the last 15 years and I’m obsessed with code quality and writing elegant, maintainable code. I am a regular open source contributor and maintainer of a couple of more or less popular gems. Most notably of the awesome [Reek](https://github.com/troessner/reek) gem - check out [my github profile](https://github.com/troessner/) for more. Additionally you can find quite a few mostly technical articles on [my blog](https://troessner.svbtle.com/).
