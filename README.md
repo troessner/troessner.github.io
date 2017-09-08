@@ -10,7 +10,14 @@
 
 There are many inspirations and inspirational people in my life. A more or less random selection of the top of my head:
 
-- Scientists like [Yann LeCun](http://yann.lecun.com/), [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/) or [Andrew Ng](http://www.andrewng.org/)
+- Mathematicians. My top five:
+    1.) [Euclid](https://en.wikipedia.org/wiki/Euclid). I especially love his proof that [there are infinitely many primes](https://primes.utm.edu/notes/proofs/infinite/euclids.html)
+    2. [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) for being the most prolific mathematician ever.
+    3. [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) for coming up with the [Prime Number Theorem](https://en.wikipedia.org/wiki/Prime_number_theorem) at the age of 15.
+    4. [Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan) who died too early to become a second Euler.
+    5. [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) for the [Monstrous moonshine](https://en.wikipedia.org/wiki/Monstrous_moonshine)
+
+- AI Scientists like [Yann LeCun](http://yann.lecun.com/), [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/) or [Andrew Ng](http://www.andrewng.org/)
 
 - Social activists like [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) or organisations like [Field Ready](https://www.fieldready.org/)
 
@@ -19,8 +26,6 @@ There are many inspirations and inspirational people in my life. A more or less 
 - Entrepreneurs like [Tony Hsieh](https://en.wikipedia.org/wiki/Tony_Hsieh) or [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk). I know it's lame but I also believe Steve Jobs was a genius :)
 
 - Inventors like [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) or [Thomas Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
-
-- Mathematicians like [Bernhard Riemann](https://en.wikipedia.org/wiki/Bernhard_Riemann) or [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler)
 
 My favourite inspirational quote at the moment is from Aaron Swartz:
 
