@@ -11,7 +11,7 @@
 There are many inspirations and inspirational people in my life. A more or less random selection of the top of my head:
 
 - Mathematicians. My top five:
-    1.) [Euclid](https://en.wikipedia.org/wiki/Euclid). I especially love his proof that [there are infinitely many primes](https://primes.utm.edu/notes/proofs/infinite/euclids.html)
+    1. [Euclid](https://en.wikipedia.org/wiki/Euclid). I especially love his proof that [there are infinitely many primes](https://primes.utm.edu/notes/proofs/infinite/euclids.html)
     2. [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) for being the most prolific mathematician ever.
     3. [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) for coming up with the [Prime Number Theorem](https://en.wikipedia.org/wiki/Prime_number_theorem) at the age of 15.
     4. [Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan) who died too early to become a second Euler.
