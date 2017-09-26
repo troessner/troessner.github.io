@@ -17,6 +17,8 @@ There are many inspirations and inspirational people in my life. A more or less 
     4. [Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan) who died too early to become a second Euler.
     5. [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) for the [Monstrous moonshine](https://en.wikipedia.org/wiki/Monstrous_moonshine)
 
+- Physicists. Especially everybody that is featured regularly on the best physics channel there is, [Sixty Symbols](https://www.youtube.com/user/sixtysymbols). Other than that I'm fascinated by the early 20th century, which means more or less everybody that attended the [1927 Solvay conference](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Solvay_conference_1927.jpg/700px-Solvay_conference_1927.jpg), Albert Einstein, Max Planck, Nils Bohr, Marie Curie...
+
 - AI Scientists like [Yann LeCun](http://yann.lecun.com/), [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/) or [Andrew Ng](http://www.andrewng.org/)
 
 - Social activists like [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) or organisations like [Field Ready](https://www.fieldready.org/)
