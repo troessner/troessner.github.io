@@ -6,6 +6,8 @@
 2. Meet interesting people that challenge my beliefs and from whom I can learn. 
 3. Create interesting...things. Innovative would be great, but that's not something you can force, now can't you? Topics I'm most interested in are robotics, genetics, space travel, telepathy and artificial intelligence in general.
 
+I wrote a longer article about all of this [here](https://troessner.svbtle.com/so-whats-the-whole-point-of-everything).
+
 ## [My inspirations](#my-inspirations)
 
 There are many inspirations and inspirational people in my life. A more or less random selection of the top of my head:
