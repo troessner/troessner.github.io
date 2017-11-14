@@ -35,7 +35,7 @@ My favourite inspirational quote at the moment is from Aaron Swartz:
 
 > Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.
 
-I follow this advice and try to read as widely as possible  - you can check out my favorite books, newsletters and articles [on my blog](https://troessner.svbtle.com/you-are-what-you-read-my-favorite-books).
+I follow this advice and try to read as widely as possible  - you can check out my favorite books, newsletters and articles [on my blog](https://troessner.svbtle.com/you-are-what-you-read-watch-and-listen-to).
 
 ## [What I bring to the table](#what-i-bring-to-the-table)
 
