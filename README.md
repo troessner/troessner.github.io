@@ -63,6 +63,10 @@ When it comes to leadership I have 2 core beliefs:
 - Mission. That does not mean being involved in the details. That means roadmap and high level metrics.
 - Team building
 
+## [Voluntary work](#voluntary-work)
+
+I currently volunteer as a German teacher for refugees at the [Offene Tuer](http://sprengelhaus-wedding.de/offene-tuer-e-v/). I also help out occasionally at the [Berliner Obdachlosenhilfe](http://www.berliner-obdachlosenhilfe.de/) handing out food to homeless people.
+
 ## [Professional experience](#professional-experience)
 
 #### Oct 2016 – Present / Director of Software Engineering
