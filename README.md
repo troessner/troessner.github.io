@@ -91,6 +91,10 @@ The Hitfox Group is a company builder and accelerator in the Berlin startup ecos
 
 I have a Bachelor of Science in Bioinformatics from the [Freie Universität Berlin](http://www.fu-berlin.de/en/index.html) in 2005.
 
+## [Contact](#contact)
+
+Mail: timo.roessner [at] gmail.com
+
 ## [You can also find me on ...](#find-me-on)
 
 [twitter](https://twitter.com/troessner) | [my blog](https://troessner.svbtle.com/) | [github](https://github.com/troessner) | [kaggle](https://www.kaggle.com/troessner) | [linkedin](https://www.linkedin.com/in/timo-r%C3%B6%C3%9Fner-05ab1630/)
