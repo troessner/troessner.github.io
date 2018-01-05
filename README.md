@@ -69,7 +69,13 @@ I currently volunteer as a German teacher for refugees at the [Offene Tuer](http
 
 ## [Professional experience](#professional-experience)
 
-#### Oct 2016 – Present / Director of Software Engineering
+#### Jan 2018 – Present / Engineering Manager
+
+[ResearchGate](https://www.researchgate.net/), Berlin (Germany)
+
+ResearchGate is changing how scientists share and advance science. It is built by scientists, for scientists. Our mission is to connect the world of science and make research open to all.
+
+#### Oct 2016 – Dec 2017 / Director of Software Engineering
 
 [Planet](https://www.planet.com/), Berlin (Germany)
 
