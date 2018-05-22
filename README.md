@@ -47,6 +47,13 @@ I follow this advice and try to read as widely as possible  - you can check out 
 
 - The passion to create something that might change change the world. I don't care much for money - my motivation lies elsewhere. This doesn't mean that I work for free, just that I value other things more.
 
+## [Technologies I have worked with](#technologies-i-have-worked-with)
+
+- Languages: There's hardly a language I can't find anything positive about it. I have worked with a lot of dynamic languages like Ruby, PHP, Python, javascript and static languages like Java. I also like esoteric languages like brainfuck or whitespace for the fun of it.
+- Databases: Over the course of the years I have worked with good old SQL databases (PostgreSQL, mySQL), NoSQL databases (Redis and friends) and Big Data databases (Hbase / Hadoop).
+- I spent the majority of my career focusing on backend development (mostly API / SOA environments) but have spent enough time in frontend and mobile development to know my way around.
+- Other than that I like and have worked with Amazon cloud, google cloud, git, git branches (yes!), test driven / behaviour driven development and [domain driven design](https://en.wikipedia.org/wiki/Domain-driven_design).
+
 ## [My leadership philosophy](#my-leadership-philosophy)
 
 When it comes to leadership I have 2 core beliefs:
