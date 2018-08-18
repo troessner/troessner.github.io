@@ -110,4 +110,4 @@ Mail: timo.roessner [at] gmail.com
 
 ## [You can also find me on ...](#find-me-on)
 
-[twitter](https://twitter.com/troessner) | [my blog](https://troessner.svbtle.com/) | [github](https://github.com/troessner) | [kaggle](https://www.kaggle.com/troessner) | [linkedin](https://www.linkedin.com/in/timo-r%C3%B6%C3%9Fner-05ab1630/)
+[github](https://github.com/troessner) | [linkedin](https://www.linkedin.com/in/timo-r%C3%B6%C3%9Fner-05ab1630/)
