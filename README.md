@@ -1,9 +1,11 @@
-![Image](timo_roessner_profile_picture.jpeg)
+<div style="display:inline;text-align:left; float: left;"> <h2><span style="color:rgb(7,55,99)">Students</span></h2> <hr> <br> <div style="display:inline;text-align:left; "><a href="sites.google.com/site/hpcmobilerobotics/team/…" imageanchor="1"><img src="http://school.discoveryeducation.com/clipart/images/student2.gif" width="100" height="150" border="0"></a> <div style="float: right"><ul style="list-style-type:square"><li>Name<li> Major<li>Email<li>Lattes</div></div><br> <br>
+
+<center><img src="timo_roessner_profile_picture.jpeg" width="250"></p></center>
 
 ## [My goals in life](#goals-in-life)
 
 1. Help people. Whatever I'm mentally invested in, it should be something that either improves the situation on our planet earth or that advances science. Doing both would be nice.
-2. Meet interesting people that challenge my beliefs and from whom I can learn. 
+2. Meet interesting people that challenge my beliefs and from whom I can learn.
 3. Create interesting...things. Innovative would be great, but that's not something you can force, now can't you? Topics I'm most interested in are robotics, genetics, space travel, telepathy and artificial intelligence in general.
 
 I wrote a longer article about all of this [here](https://troessner.svbtle.com/so-whats-the-whole-point-of-everything).
@@ -39,9 +41,9 @@ I follow this advice and try to read as widely as possible  - you can check out 
 
 ## [What I bring to the table](#what-i-bring-to-the-table)
 
-- Excellence in software engineering. I’ve been doing this for the last 15 years and I’m obsessed with code quality and writing elegant, maintainable code. I am a regular open source contributor and maintainer of a couple of more or less popular gems. Most notably of the awesome [Reek](https://github.com/troessner/reek) gem - check out [my github profile](https://github.com/troessner/) for more. Additionally you can find quite a few mostly technical articles on [my blog](https://troessner.svbtle.com/).
+- Excellence in software engineering. I’ve been doing this for the last 15 years and I’m obsessed with code quality and writing elegant, maintainable code. I am a regular open source contributor and maintainer of a couple of more or less popular gems. Most notably of the awesome [Reek](https://github.com/troessner/reek) gem - check out [my github profile](https://github.com/troessner/) for more. Additionally you can find quite a few mostly technical articles on [my blog](https://troessner.github.io/articles/).
 
-- Building up teams by recruiting the best people. I'd go as far as to say that team play is 10 times more important than "being an expert" since it's far easier to become good at something than transitioning from being a douche to somebody who can carry and motivate a team. You can read up on my recruiting philosophy [here](https://troessner.svbtle.com/the-rockstar-ninja-and-you-a-laymans-guide-how-to-not-hire-them).
+- Building up teams by recruiting the best people. I'd go as far as to say that team play is 10 times more important than "being an expert" since it's far easier to become good at something than transitioning from being a douche to somebody who can carry and motivate a team. You can read up on my recruiting philosophy [here](https://troessner.github.io/articles/2016-08-15-the-rockstar-ninja-coder-and-you.html).
 
 - Motivation and the passion to motivate others: I believe that vision and purpose on the high level, clear responsibilities and maximum autonomy are the keys to high productivity and happiness.
 
@@ -110,4 +112,4 @@ Mail: timo.roessner [at] gmail.com
 
 ## [You can also find me on ...](#find-me-on)
 
-[github](https://github.com/troessner) | [linkedin](https://www.linkedin.com/in/timo-r%C3%B6%C3%9Fner-05ab1630/)
+[github](https://github.com/troessner) | [linkedin](https://www.linkedin.com/in/timo-r%C3%B6%C3%9Fner-05ab1630/) | [blog](https://troessner.github.io/articles/) 
