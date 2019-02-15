@@ -78,7 +78,13 @@ I currently volunteer as a German teacher for refugees at the [Offene Tuer](http
 
 ## [Professional experience](#professional-experience)
 
-#### Jan 2018 – Present / Engineering Manager
+#### Oct 2018 – Present / Engineering Manager
+
+[toptal](https://www.toptal.com/)
+
+Toptal is an exclusive network of the top freelance software developers, designers, finance experts, product managers, and project managers in the world. Top companies rely on Toptal freelancers for their most important projects.
+
+#### Jan 2018 – Sept 2018 / Engineering Manager
 
 [ResearchGate](https://www.researchgate.net/), Berlin (Germany)
 
@@ -112,4 +118,4 @@ Mail: timo.roessner [at] gmail.com
 
 ## [You can also find me on ...](#find-me-on)
 
-[github](https://github.com/troessner) | [linkedin](https://www.linkedin.com/in/timo-r%C3%B6%C3%9Fner-05ab1630/) | [blog](https://troessner.github.io/articles/) 
+[github](https://github.com/troessner) | [linkedin](https://www.linkedin.com/in/timo-r%C3%B6%C3%9Fner-05ab1630/) | [blog](https://troessner.github.io/articles/)
