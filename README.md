@@ -39,7 +39,7 @@ I follow this advice and try to read as widely as possible  - you can check out 
 
 ## [What I bring to the table](#what-i-bring-to-the-table)
 
-- Excellence in software engineering. I’ve been doing this for the last 15 years and I’m obsessed with code quality and writing elegant, maintainable code. I am a regular open source contributor and maintainer of a couple of more or less popular gems. Most notably of the awesome [Reek](https://github.com/troessner/reek) gem - check out [my github profile](https://github.com/troessner/) for more. Additionally you can find quite a few mostly technical articles on [my blog](https://troessner.github.io/articles/).
+- Excellence in software engineering. I’m obsessed with code quality and writing elegant, maintainable code. I am a regular open source contributor and maintainer of a couple of more or less popular gems. Most notably of the awesome [Reek](https://github.com/troessner/reek) gem - check out [my github profile](https://github.com/troessner/) for more. Additionally you can find quite a few mostly technical articles on [my blog](https://troessner.github.io/articles/).
 
 - Building up teams by recruiting the best people. I'd go as far as to say that team play is 10 times more important than "being an expert" since it's far easier to become good at something than transitioning from being a douche to somebody who can carry and motivate a team. You can read up on my recruiting philosophy [here](https://troessner.github.io/articles/2016-08-15-the-rockstar-ninja-coder-and-you.html).
 
@@ -72,7 +72,7 @@ When it comes to leadership I have 2 core beliefs:
 
 ## [Voluntary work](#voluntary-work)
 
-I currently volunteer as a German teacher for refugees at the [Offene Tuer](http://sprengelhaus-wedding.de/offene-tuer-e-v/). I also help out occasionally at the [Berliner Obdachlosenhilfe](http://www.berliner-obdachlosenhilfe.de/) handing out food to homeless people.
+I used to volunteer as a German teacher for refugees at the [Offene Tuer](http://sprengelhaus-wedding.de/offene-tuer-e-v/). I also help out occasionally at the [Berliner Obdachlosenhilfe](http://www.berliner-obdachlosenhilfe.de/) handing out food to homeless people. My most recent activity was giving introductory programming lessons to female immigrants in refugee camps for the [ReDi school](https://www.redi-school.org/berlin) in Berlin.
 
 ## [Professional experience](#professional-experience)
 
