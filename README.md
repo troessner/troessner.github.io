@@ -8,6 +8,12 @@
 
 I wrote a longer article about all of this [here](https://troessner.svbtle.com/so-whats-the-whole-point-of-everything).
 
+## [What I am looking for in a company](#what-i-am-looking-for-in-a-company)
+
+1. A company that truly cares about employee happiness and motivation.
+2. A company that heavily invests into its own employees.
+3. A company that respects and empowers its own leadership.
+
 ## [My inspirations](#my-inspirations)
 
 There are many inspirations and inspirational people in my life. A more or less random selection of the top of my head:
