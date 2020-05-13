@@ -6,7 +6,7 @@
 - Goal setting both on a team level and on a department-wide scale
 - Strategic initiatives, e.g. career development, career ladder, technical and managerial initiatives across the engineering department
 - Team building on a high level
-- Increase team productivity and happiness
+- Boosting team productivity and happiness
 
 ## [What I am looking for in a company](#what-i-am-looking-for-in-a-company)
 
@@ -80,7 +80,7 @@ When it comes to leadership I have 2 core beliefs:
 
 ## [Technologies I have worked with](#technologies-i-have-worked-with)
 
-I have been fully focused on management for the last couple of years or so but back in the day I was software developer working with a variety of technologies:
+I have been fully focused on management for the last couple of years or so but back in the day I was a software developer working with a variety of technologies:
 
 - Languages: There's hardly a language I can't find anything positive about it. I have worked with a lot of dynamic languages like Ruby, PHP, Python, javascript and static languages like Java. I also like esoteric languages like brainfuck or whitespace for the fun of it.
 - Databases: Over the course of the years I have worked with good old SQL databases (PostgreSQL, mySQL), NoSQL databases (Redis and friends) and Big Data databases (Hbase / Hadoop).
