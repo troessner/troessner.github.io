@@ -1,18 +1,24 @@
  ![Image](timo_roessner_profile_picture.jpeg)
 
-## [My goals in life](#goals-in-life)
+## [What I am doing professionally](#what-i-am-doing-professionally)
 
-1. Help people. Whatever I'm mentally invested in, it should be something that either improves the situation on our planet earth or that advances science. Doing both would be nice.
-2. Meet interesting people that challenge my beliefs and from whom I can learn.
-3. Create interesting...things. Innovative would be great, but that's not something you can force, now can't you? Topics I'm most interested in are robotics, genetics, space travel, telepathy and artificial intelligence in general.
-
-I wrote a longer article about all of this [here](https://troessner.svbtle.com/so-whats-the-whole-point-of-everything).
+- Leadership coaching
+- Goal setting both on a team level and on a department-wide scale
+- Strategic initiatives, e.g. career development, career ladder, technical and managerial initiatives across the engineering department
+- Team building on a high level
+- Increase team productivity and happiness
 
 ## [What I am looking for in a company](#what-i-am-looking-for-in-a-company)
 
 1. A company that truly cares about employee happiness and motivation.
 2. A company that heavily invests into its own employees.
 3. A company that respects and empowers its own leadership.
+
+## [My goals in life](#goals-in-life)
+
+1. Help people. Whatever I'm mentally invested in, it should be something that either improves the situation on our planet earth or that advances science. Doing both would be nice.
+2. Meet interesting people that challenge my beliefs and from whom I can learn.
+3. Create interesting...things. Topics I'm most interested in are math, robotics, genetics, space travel, telepathy and artificial intelligence in general.
 
 ## [My inspirations](#my-inspirations)
 
@@ -45,7 +51,7 @@ I follow this advice and try to read as widely as possible  - you can check out 
 
 ## [What I bring to the table](#what-i-bring-to-the-table)
 
-- Excellence in software engineering. I’m obsessed with code quality and writing elegant, maintainable code. I am a regular open source contributor and maintainer of a couple of more or less popular gems. Most notably of the awesome [Reek](https://github.com/troessner/reek) gem - check out [my github profile](https://github.com/troessner/) for more. Additionally you can find quite a few mostly technical articles on [my blog](https://troessner.github.io/articles/).
+- A love for people management and seeing them realize their full potential. 
 
 - Building up teams by recruiting the best people. I'd go as far as to say that team play is 10 times more important than "being an expert" since it's far easier to become good at something than transitioning from being a douche to somebody who can carry and motivate a team. You can read up on my recruiting philosophy [here](https://troessner.github.io/articles/2016-08-15-the-rockstar-ninja-coder-and-you.html).
 
@@ -53,12 +59,7 @@ I follow this advice and try to read as widely as possible  - you can check out 
 
 - The passion to create something that might change change the world. I don't care much for money - my motivation lies elsewhere. This doesn't mean that I work for free, just that I value other things more.
 
-## [Technologies I have worked with](#technologies-i-have-worked-with)
-
-- Languages: There's hardly a language I can't find anything positive about it. I have worked with a lot of dynamic languages like Ruby, PHP, Python, javascript and static languages like Java. I also like esoteric languages like brainfuck or whitespace for the fun of it.
-- Databases: Over the course of the years I have worked with good old SQL databases (PostgreSQL, mySQL), NoSQL databases (Redis and friends) and Big Data databases (Hbase / Hadoop).
-- I spent the majority of my career focusing on backend development (mostly API / SOA environments) but have spent enough time in frontend and mobile development to know my way around.
-- Other than that I like and have worked with Amazon cloud, google cloud, git, git branches (yes!), test driven / behaviour driven development and [domain driven design](https://en.wikipedia.org/wiki/Domain-driven_design).
+- Excellence in software engineering. I’m obsessed with code quality and writing elegant, maintainable code. I am a regular open source contributor and maintainer of a couple of more or less popular gems. Most notably of the awesome [Reek](https://github.com/troessner/reek) gem - check out [my github profile](https://github.com/troessner/) for more. Additionally you can find quite a few mostly technical articles on [my blog](https://troessner.github.io/articles/).
 
 ## [My leadership philosophy](#my-leadership-philosophy)
 
@@ -67,14 +68,24 @@ When it comes to leadership I have 2 core beliefs:
 **What makes humans productive?**
 
 - Sharing a common vision that means something to you and others.
-- Clearly defined responsibilities. Not in a limiting "you're not allowed to do that" way but rather in a "I know who's taking care of what" way
-- Maximum autonomy. Most startups get this part right because it's the easiest one. Unfortunately it's also the one that can quickly make people unproductive and unhappy when you fuck up the first two items
+- Clearly defined responsibilities. Not in a limiting "you're not allowed to do that" way but rather in a "I know who's taking care of what" way.
+- Maximum autonomy. Most startups get this part right because it's the easiest one. Unfortunately it's also the one that can quickly make people unproductive and unhappy when you get the first two items on this list wrong.
 
 **What is leadership?**
 
 - Vision. At least a third of your time should only be invested in developing, nurturing and communicating the vision.
 - Mission. That does not mean being involved in the details. That means roadmap and high level metrics.
 - Team building
+- Strategic initiatives across the company
+
+## [Technologies I have worked with](#technologies-i-have-worked-with)
+
+I have been fully focused on management for the last couple of years or so but back in the day I was software developer working with a variety of technologies:
+
+- Languages: There's hardly a language I can't find anything positive about it. I have worked with a lot of dynamic languages like Ruby, PHP, Python, javascript and static languages like Java. I also like esoteric languages like brainfuck or whitespace for the fun of it.
+- Databases: Over the course of the years I have worked with good old SQL databases (PostgreSQL, mySQL), NoSQL databases (Redis and friends) and Big Data databases (Hbase / Hadoop).
+- I spent the majority of my career focusing on backend development (mostly API / SOA environments) but have spent enough time in frontend and mobile development to know my way around.
+- Other than that I like and have worked with Amazon cloud, google cloud, git, git branches (yes!), test driven / behaviour driven development and [domain driven design](https://en.wikipedia.org/wiki/Domain-driven_design).
 
 ## [Voluntary work](#voluntary-work)
 
@@ -114,7 +125,8 @@ The Hitfox Group is a company builder and accelerator in the Berlin startup ecos
 
 ## [Education](#education)
 
-I have a Bachelor of Science in Bioinformatics from the [Freie Universität Berlin](http://www.fu-berlin.de/en/index.html) in 2005.
+* I have a Bachelor of Science in Bioinformatics from the [Freie Universität Berlin](http://www.fu-berlin.de/en/index.html) in 2005.
+* I am currently studying mathematics on the side with the final goal of getting a PHD.
 
 ## [Contact](#contact)
 
