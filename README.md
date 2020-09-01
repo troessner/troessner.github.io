@@ -93,9 +93,13 @@ I used to volunteer as a German teacher for refugees at the [Offene Tuer](http:/
 
 ## [Professional experience](#professional-experience)
 
-#### Oct 2018 – Present / Engineering Manager
+#### Sept 2020 – Present / Director of Engineering
 
-[toptal](https://www.toptal.com/)
+[Toptal](https://www.toptal.com/)
+
+#### Oct 2018 – Oct 2020 / Engineering Manager
+
+[Toptal](https://www.toptal.com/)
 
 Toptal is an exclusive network of the top freelance software developers, designers, finance experts, product managers, and project managers in the world. Top companies rely on Toptal freelancers for their most important projects.
 
