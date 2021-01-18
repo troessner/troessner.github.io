@@ -127,6 +127,10 @@ Blacklane is a ride-hailing service that is working world wide with the highest 
 
 The Hitfox Group is a company builder and accelerator in the Berlin startup ecosystem. As senior software developer I was working on high load production services and new products. Furthermore I was involved in building team culture, recruiting and clean code guidelines.
 
+#### 2002 – 2013 / Freelance Software Developer
+
+A lot of freelancing in the Berlin startup eco system mostly working with dynamic languages like Ruby, Python and Javascript.
+
 ## [Education](#education)
 
 * I have a Bachelor of Science in Bioinformatics from the [Freie Universität Berlin](http://www.fu-berlin.de/en/index.html) in 2005.
