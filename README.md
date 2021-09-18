@@ -6,20 +6,18 @@ I'm a software developer turned leader living in Berlin. I have spent almost all
 
 ## [My inspirations](#my-inspirations)
 
-There are many inspirations and inspirational people in my life. A more or less random selection of the top of my head:
+There are many inspirations and inspirational people in my life:
 
-- Mathematicians. My top five:
+- Mathematicians. My top 3:
     1. [Euclid](https://en.wikipedia.org/wiki/Euclid). I especially love his proof that [there are infinitely many primes](https://primes.utm.edu/notes/proofs/infinite/euclids.html)
-    2. [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) for being the most prolific mathematician ever.
-    3. [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) for coming up with the [Prime Number Theorem](https://en.wikipedia.org/wiki/Prime_number_theorem) at the age of 15.
-    4. [Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan) who died too early to become a second Euler.
-    5. [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) for the [Monstrous moonshine](https://en.wikipedia.org/wiki/Monstrous_moonshine)
+    2. [Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan) who died too early to become a second Euler.
+    3. [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) for the [Monstrous moonshine](https://en.wikipedia.org/wiki/Monstrous_moonshine) conjecture.
 
 - Physicists. Especially everybody that is featured regularly on the best physics channel there is, [Sixty Symbols](https://www.youtube.com/user/sixtysymbols). Other than that I'm fascinated by the early 20th century, which means more or less everybody that attended the [1927 Solvay conference](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Solvay_conference_1927.jpg/700px-Solvay_conference_1927.jpg), Albert Einstein, Max Planck, Nils Bohr, Marie Curie...
 
 - AI Scientists like [Yann LeCun](http://yann.lecun.com/), [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/) or [Andrew Ng](http://www.andrewng.org/)
 
-- Social activists like [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) or organisations like [Field Ready](https://www.fieldready.org/)
+- Social activists like [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz)
 
 - Psychologist and motivational speakers like [Tony Robbins](https://www.ted.com/talks/tony_robbins_asks_why_we_do_what_we_do) or [Carol Dweck](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve#t-73105)
 
@@ -27,12 +25,9 @@ There are many inspirations and inspirational people in my life. A more or less 
 
 - Inventors like [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) or [Thomas Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
 
-My favourite inspirational quote at the moment is from Aaron Swartz:
+My favourite inspirational quote is from Aaron Swartz:
 
 > Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.
-
-I follow this advice and try to read as widely as possible  - you can check out my favorite books, newsletters and articles [on my blog](https://troessner.svbtle.com/you-are-what-you-read-watch-and-listen-to).
-
 
 ## [My interests](#my-interests)
 
@@ -52,23 +47,21 @@ Other than that I have been training Brazilian jiu-jitsu for quite a few years n
 * I have a Bachelor of Science in Bioinformatics from the [Freie Universität Berlin](http://www.fu-berlin.de/en/index.html) in 2005.
 * I am currently studying mathematics on the side with the final goal of getting a PHD.
 
-## [My leadership philosophy](#my-leadership-philosophy)
+## [What I am doing professionally](#what-i-am-doing-professionally)
 
-When it comes to leadership I have 2 core beliefs:
+In one short sentence: Team building & [Blitzscaling](https://hbr.org/2016/04/blitzscaling): 
 
-**What makes humans productive?**
+> Blitzscaling is what you do when you need to grow really, really quickly. It’s the science and art of rapidly building out a company to serve a large and usually global market, with the goal of becoming the first mover at scale.
 
-- Sharing a common vision that means something to you and others.
-- Clearly defined responsibilities. Not in a limiting "you're not allowed to do that" way but rather in a "I know who's taking care of what" way.
-- Maximum autonomy. Most startups get this part right because it's the easiest one. Unfortunately it's also the one that can quickly make people unproductive and unhappy when you get the first two items on this list wrong.
+This happens mostly in a software engineering context but is naturally not limited to it - I am used to collaborate closely and contribute to HR, recruiting, marketing and sales.
 
-**What is leadership?**
+To make this a bit more tangible, recurring activities for me are:
 
-- Vision. At least a third of your time should only be invested in developing, nurturing and communicating the vision.
-- Mission. That does not mean being involved in the details. That means roadmap and high level metrics.
+- Leadership coaching
+- Goal setting both on a team level and on a department-wide scale
+- Strategic initiatives, e.g. career development, career ladder, technical and managerial initiatives across the engineering department
 - Team building
-- Strategic initiatives across the company
-
+- Boosting team productivity and happiness
 
 ## [What I bring to the table](#what-i-bring-to-the-table)
 
@@ -81,21 +74,6 @@ When it comes to leadership I have 2 core beliefs:
 - The passion to create something that might change change the world. I don't care much for money - my motivation lies elsewhere. This doesn't mean that I work for free, just that I value other things more.
 
 - Excellence in software engineering. I’m obsessed with code quality and writing elegant, maintainable code. I am a regular open source contributor and maintainer of a couple of more or less popular gems. Most notably of the awesome [Reek](https://github.com/troessner/reek) gem - check out [my github profile](https://github.com/troessner/) for more. Additionally you can find quite a few mostly technical articles on [my blog](https://troessner.github.io/articles/).
-
-
-## [What I am doing professionally](#what-i-am-doing-professionally)
-
-- Leadership coaching
-- Goal setting both on a team level and on a department-wide scale
-- Strategic initiatives, e.g. career development, career ladder, technical and managerial initiatives across the engineering department
-- Team building on a high level
-- Boosting team productivity and happiness
-
-## [What I am looking for in a company](#what-i-am-looking-for-in-a-company)
-
-1. A company that truly cares about employee happiness and motivation.
-2. A company that heavily invests into its own employees.
-3. A company that respects and empowers its own leadership.
 
 
 ## [Technologies I have worked with](#technologies-i-have-worked-with)
