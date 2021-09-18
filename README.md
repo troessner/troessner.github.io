@@ -93,11 +93,19 @@ I used to volunteer as a German teacher for refugees at the [Offene Tuer](http:/
 
 ## [Professional experience](#professional-experience)
 
-#### Sept 2020 – Present / Director of Engineering
+#### July 2021 - Present / Head of Engineering
 
-[Toptal](https://www.toptal.com/)
+[Nas Academy](https://nasacademy.com/)
 
-#### Oct 2018 – Oct 2020 / Engineering Manager
+We are on a mission to empower Creators through technology. Starting with education.
+The great irony is that people don’t enjoy education, but they love learning.
+We believe that Creators can fix that gap with better technology and world-class learning experiences.
+
+#### January 2021 - July 2021 / CTO for hire
+
+Freelancing.
+
+#### Oct 2018 – January 2021 / Senior Director of Engineering
 
 [Toptal](https://www.toptal.com/)
 
@@ -113,7 +121,7 @@ ResearchGate is changing how scientists share and advance science. It is built b
 
 [Planet](https://www.planet.com/), Berlin (Germany)
 
-Planet builds, ships and operates the biggest satellite fleet in the history of mankind. As director of software engineering I'm responsible for building and scaling the software engineering team, develop new and innovative analytical products on top of our vasts amount of data and maintaining our existing production systems. Planet has a strong philanthropic aspect to everything it does and we're always helping communities and researchers to make use of our data in the best way possible.
+Planet builds, ships and operates the biggest satellite fleet in the history of mankind. As director of software engineering I was responsible for building and scaling the software engineering team, develop new and innovative analytical products on top of our vasts amount of data and maintaining our existing production systems. Planet has a strong philanthropic aspect to everything it does and we're always helping communities and researchers to make use of our data in the best way possible.
 
 #### March 2014 – Sept 2016 / Director of Software Engineering
 
@@ -125,7 +133,7 @@ Blacklane is a ride-hailing service that is working world wide with the highest 
 
 [Hitfox Group](http://www.hitfoxgroup.com/), Berlin (Germany)
 
-The Hitfox Group is a company builder and accelerator in the Berlin startup ecosystem. As senior software developer I was working on high load production services and new products. Furthermore I was involved in building team culture, recruiting and clean code guidelines.
+The Hitfox Group is a company builder and accelerator in the Berlin startup ecosystem. As senior software developer I was working on high load production services and new products.
 
 #### 2002 – 2013 / Freelance Software Developer
 
