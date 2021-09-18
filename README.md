@@ -2,7 +2,7 @@
 
 Hey there,
 
-I'm a software developer turned leader living in Berlin
+I'm a software developer turned leader living in Berlin. I have spent almost all of my professional life in startups and probably wouldn't last 1 week in a traditional corporation. I'm currently working as the Head of Engineering for Nas Academy to change education all around the world.
 
 ## [My inspirations](#my-inspirations)
 
@@ -37,6 +37,7 @@ I follow this advice and try to read as widely as possible  - you can check out 
 ## [My interests](#my-interests)
 
 Being silly and doing silly things with my daughter is certainly one of my favorite pastimes. When I'm not doing that I'm flying an aircraft or at least trying to - I'm currently in the process of getting my pilot licence. Once I have accomplished this (which given the difficulty of, you know, flying would be one of my major life achievements) I'm hoping to buy a beautiful [Cirrus SR22](https://cirrusaircraft.com/aircraft/sr22/) or an [extra300](https://www.extraaircraft.com/) so I can visit each country on this planet flying there with my own aircraft. Yeah, I said that unironically ;)
+
 Other than that I have been training Brazilian jiu-jitsu for quite a few years now and still do so even though I really suck at it. And finally I love math and physics (all sciences really, but you gotta make some concessions since you can't do it all) and am studying math on the side being enrolled in a remote university.
 
 ## [Voluntary work](#voluntary-work)
