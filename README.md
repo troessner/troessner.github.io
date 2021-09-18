@@ -61,6 +61,18 @@ I follow this advice and try to read as widely as possible  - you can check out 
 
 - Excellence in software engineering. I’m obsessed with code quality and writing elegant, maintainable code. I am a regular open source contributor and maintainer of a couple of more or less popular gems. Most notably of the awesome [Reek](https://github.com/troessner/reek) gem - check out [my github profile](https://github.com/troessner/) for more. Additionally you can find quite a few mostly technical articles on [my blog](https://troessner.github.io/articles/).
 
+## [Voluntary work](#voluntary-work)
+
+* One of my most recent activity was giving introductory programming lessons to female immigrants in refugee camps for the [ReDi school](https://www.redi-school.org/berlin) in Berlin.
+* I still regularly mentor and coach the kids I taught in the programming classes above.
+* I used to volunteer as a German teacher for refugees at the [Offene Tuer](http://sprengelhaus-wedding.de/offene-tuer-e-v/).
+* I help out occasionally at the [Berliner Obdachlosenhilfe](http://www.berliner-obdachlosenhilfe.de/) handing out food to homeless people.
+
+## [Education](#education)
+
+* I have a Bachelor of Science in Bioinformatics from the [Freie Universität Berlin](http://www.fu-berlin.de/en/index.html) in 2005.
+* I am currently studying mathematics on the side with the final goal of getting a PHD.
+
 ## [My leadership philosophy](#my-leadership-philosophy)
 
 When it comes to leadership I have 2 core beliefs:
@@ -87,9 +99,6 @@ I have been fully focused on management for the last couple of years or so but b
 - I spent the majority of my career focusing on backend development (mostly API / SOA environments) but have spent enough time in frontend and mobile development to know my way around.
 - Other than that I like and have worked with Amazon cloud, google cloud, git, git branches (yes!), test driven / behaviour driven development and [domain driven design](https://en.wikipedia.org/wiki/Domain-driven_design).
 
-## [Voluntary work](#voluntary-work)
-
-I used to volunteer as a German teacher for refugees at the [Offene Tuer](http://sprengelhaus-wedding.de/offene-tuer-e-v/). I also help out occasionally at the [Berliner Obdachlosenhilfe](http://www.berliner-obdachlosenhilfe.de/) handing out food to homeless people. My most recent activity was giving introductory programming lessons to female immigrants in refugee camps for the [ReDi school](https://www.redi-school.org/berlin) in Berlin.
 
 ## [Professional experience](#professional-experience)
 
@@ -138,11 +147,6 @@ The Hitfox Group is a company builder and accelerator in the Berlin startup ecos
 #### 2002 – 2013 / Freelance Software Developer
 
 A lot of freelancing in the Berlin startup eco system mostly working with dynamic languages like Ruby, Python and Javascript.
-
-## [Education](#education)
-
-* I have a Bachelor of Science in Bioinformatics from the [Freie Universität Berlin](http://www.fu-berlin.de/en/index.html) in 2005.
-* I am currently studying mathematics on the side with the final goal of getting a PHD.
 
 ## [Contact](#contact)
 
