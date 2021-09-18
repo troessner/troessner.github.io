@@ -1,6 +1,6 @@
  ![Image](timo_roessner_profile_picture.jpeg)
 
-Hey there,
+## [Hey There](#hey-there)
 
 I'm a software developer turned leader living in Berlin. I have spent almost all of my professional life in startups and probably wouldn't last 1 week in a traditional corporation. I'm currently working as the Head of Engineering for Nas Academy to change education all around the world.
 
