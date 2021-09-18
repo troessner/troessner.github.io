@@ -1,24 +1,8 @@
  ![Image](timo_roessner_profile_picture.jpeg)
 
-## [What I am doing professionally](#what-i-am-doing-professionally)
+Hey there,
 
-- Leadership coaching
-- Goal setting both on a team level and on a department-wide scale
-- Strategic initiatives, e.g. career development, career ladder, technical and managerial initiatives across the engineering department
-- Team building on a high level
-- Boosting team productivity and happiness
-
-## [What I am looking for in a company](#what-i-am-looking-for-in-a-company)
-
-1. A company that truly cares about employee happiness and motivation.
-2. A company that heavily invests into its own employees.
-3. A company that respects and empowers its own leadership.
-
-## [My goals in life](#goals-in-life)
-
-1. Help people. Whatever I'm mentally invested in, it should be something that either improves the situation on our planet earth or that advances science. Doing both would be nice.
-2. Meet interesting people that challenge my beliefs and from whom I can learn.
-3. Create interesting...things. Topics I'm most interested in are math, robotics, genetics, space travel, telepathy and artificial intelligence in general.
+I'm a software developer turned leader living in Berlin
 
 ## [My inspirations](#my-inspirations)
 
@@ -49,17 +33,11 @@ My favourite inspirational quote at the moment is from Aaron Swartz:
 
 I follow this advice and try to read as widely as possible  - you can check out my favorite books, newsletters and articles [on my blog](https://troessner.svbtle.com/you-are-what-you-read-watch-and-listen-to).
 
-## [What I bring to the table](#what-i-bring-to-the-table)
 
-- A love for people management and seeing them realize their full potential. 
+## [My interests](#my-interests)
 
-- Building up teams by recruiting the best people. I'd go as far as to say that team play is 10 times more important than "being an expert" since it's far easier to become good at something than transitioning from being a douche to somebody who can carry and motivate a team. You can read up on my recruiting philosophy [here](https://troessner.github.io/articles/2016-08-15-the-rockstar-ninja-coder-and-you.html).
-
-- Motivation and the passion to motivate others: I believe that vision and purpose on the high level, clear responsibilities and maximum autonomy are the keys to high productivity and happiness.
-
-- The passion to create something that might change change the world. I don't care much for money - my motivation lies elsewhere. This doesn't mean that I work for free, just that I value other things more.
-
-- Excellence in software engineering. I’m obsessed with code quality and writing elegant, maintainable code. I am a regular open source contributor and maintainer of a couple of more or less popular gems. Most notably of the awesome [Reek](https://github.com/troessner/reek) gem - check out [my github profile](https://github.com/troessner/) for more. Additionally you can find quite a few mostly technical articles on [my blog](https://troessner.github.io/articles/).
+Being silly and doing silly things with my daughter is certainly one of my favorite pastimes. When I'm not doing that I'm flying an aircraft or at least trying to - I'm currently in the process of getting my pilot licence. Once I have accomplished this (which given the difficulty of, you know, flying would be one of my major life achievements) I'm hoping to buy a beautiful [Cirrus SR22](https://cirrusaircraft.com/aircraft/sr22/) or an [extra300](https://www.extraaircraft.com/) so I can visit each country on this planet flying there with my own aircraft. Yeah, I said that unironically ;)
+Other than that I have been training Brazilian jiu-jitsu for quite a few years now and still do so even though I really suck at it. And finally I love math and physics (all sciences really, but you gotta make some concessions since you can't do it all) and am studying math on the side being enrolled in a remote university.
 
 ## [Voluntary work](#voluntary-work)
 
@@ -89,6 +67,35 @@ When it comes to leadership I have 2 core beliefs:
 - Mission. That does not mean being involved in the details. That means roadmap and high level metrics.
 - Team building
 - Strategic initiatives across the company
+
+
+## [What I bring to the table](#what-i-bring-to-the-table)
+
+- A love for people management and seeing them realize their full potential. 
+
+- Building up teams by recruiting the best people. I'd go as far as to say that team play is 10 times more important than "being an expert" since it's far easier to become good at something than transitioning from being a douche to somebody who can carry and motivate a team. You can read up on my recruiting philosophy [here](https://troessner.github.io/articles/2016-08-15-the-rockstar-ninja-coder-and-you.html).
+
+- Motivation and the passion to motivate others: I believe that vision and purpose on the high level, clear responsibilities and maximum autonomy are the keys to high productivity and happiness.
+
+- The passion to create something that might change change the world. I don't care much for money - my motivation lies elsewhere. This doesn't mean that I work for free, just that I value other things more.
+
+- Excellence in software engineering. I’m obsessed with code quality and writing elegant, maintainable code. I am a regular open source contributor and maintainer of a couple of more or less popular gems. Most notably of the awesome [Reek](https://github.com/troessner/reek) gem - check out [my github profile](https://github.com/troessner/) for more. Additionally you can find quite a few mostly technical articles on [my blog](https://troessner.github.io/articles/).
+
+
+## [What I am doing professionally](#what-i-am-doing-professionally)
+
+- Leadership coaching
+- Goal setting both on a team level and on a department-wide scale
+- Strategic initiatives, e.g. career development, career ladder, technical and managerial initiatives across the engineering department
+- Team building on a high level
+- Boosting team productivity and happiness
+
+## [What I am looking for in a company](#what-i-am-looking-for-in-a-company)
+
+1. A company that truly cares about employee happiness and motivation.
+2. A company that heavily invests into its own employees.
+3. A company that respects and empowers its own leadership.
+
 
 ## [Technologies I have worked with](#technologies-i-have-worked-with)
 
