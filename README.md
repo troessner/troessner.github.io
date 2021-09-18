@@ -9,17 +9,17 @@ I'm a software developer turned leader living in Berlin. I have spent almost all
 There are many inspirations and inspirational people in my life:
 
 - Mathematicians. My top 3:
-    1. [Euclid](https://en.wikipedia.org/wiki/Euclid). I especially love his proof that [there are infinitely many primes](https://primes.utm.edu/notes/proofs/infinite/euclids.html)
-    2. [Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan) who died too early to become a second Euler.
+    1. [Euclid](https://en.wikipedia.org/wiki/Euclid). In particular I love his proof that [there are infinitely many primes](https://primes.utm.edu/notes/proofs/infinite/euclids.html) and I always like to of this as the beginning of modern maths (I'm probably completely wrong but who cares).
+    2. [Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan) who died too soon to become a second Euler.
     3. [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) for the [Monstrous moonshine](https://en.wikipedia.org/wiki/Monstrous_moonshine) conjecture.
 
 - Physicists. Especially everybody that is featured regularly on the best physics channel there is, [Sixty Symbols](https://www.youtube.com/user/sixtysymbols). Other than that I'm fascinated by the early 20th century, which means more or less everybody that attended the [1927 Solvay conference](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Solvay_conference_1927.jpg/700px-Solvay_conference_1927.jpg), Albert Einstein, Max Planck, Nils Bohr, Marie Curie...
 
-- AI Scientists like [Yann LeCun](http://yann.lecun.com/), [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/) or [Andrew Ng](http://www.andrewng.org/)
+- AI scientists like [Yann LeCun](http://yann.lecun.com/), [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/) or [Andrew Ng](http://www.andrewng.org/)
 
 - Social activists like [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz)
 
-- Psychologist and motivational speakers like [Tony Robbins](https://www.ted.com/talks/tony_robbins_asks_why_we_do_what_we_do) or [Carol Dweck](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve#t-73105)
+- Psychologists and motivational speakers like [Tony Robbins](https://www.ted.com/talks/tony_robbins_asks_why_we_do_what_we_do) or [Carol Dweck](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve#t-73105)
 
 - Entrepreneurs like [Tony Hsieh](https://en.wikipedia.org/wiki/Tony_Hsieh) or [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk). I know it's lame but I also believe Steve Jobs was a genius :)
 
@@ -31,13 +31,13 @@ My favourite inspirational quote is from Aaron Swartz:
 
 ## [My interests](#my-interests)
 
-Being silly and doing silly things with my daughter is certainly one of my favorite pastimes. When I'm not doing that I'm flying an aircraft or at least trying to - I'm currently in the process of getting my pilot licence. Once I have accomplished this (which given the difficulty of, you know, flying would be one of my major life achievements) I'm hoping to buy a beautiful [Cirrus SR22](https://cirrusaircraft.com/aircraft/sr22/) or an [extra300](https://www.extraaircraft.com/) so I can visit each country on this planet flying there with my own aircraft. Yeah, I said that unironically ;)
+Being silly and doing silly things with my daughter is certainly one of my favorite pastimes. When I'm not doing that I'm flying an aircraft or at least trying to - I'm currently in the process of getting my pilot licence. Once I have accomplished this (which given the difficulty of, you know, flying would be one of my major life achievements) I'm hoping to buy a beautiful [Cirrus SR22](https://cirrusaircraft.com/aircraft/sr22/) or an [Extra 300](https://www.extraaircraft.com/) so I can visit each country on this planet by flying there with my own aircraft. Yeah, I said that unironically ;)
 
 Other than that I have been training Brazilian jiu-jitsu for quite a few years now and still do so even though I really suck at it. And finally I love math and physics (all sciences really, but you gotta make some concessions since you can't do it all) and am studying math on the side being enrolled in a remote university.
 
 ## [Voluntary work](#voluntary-work)
 
-* One of my most recent activity was giving introductory programming lessons to female immigrants in refugee camps for the [ReDi school](https://www.redi-school.org/berlin) in Berlin.
+* One of my most recent activities was giving introductory programming lessons to female immigrants in refugee camps for the [ReDi school](https://www.redi-school.org/berlin) in Berlin.
 * I still regularly mentor and coach the kids I taught in the programming classes above.
 * I used to volunteer as a German teacher for refugees at the [Offene Tuer](http://sprengelhaus-wedding.de/offene-tuer-e-v/).
 * I help out occasionally at the [Berliner Obdachlosenhilfe](http://www.berliner-obdachlosenhilfe.de/) handing out food to homeless people.
