@@ -33,7 +33,7 @@ My favourite inspirational quote is from Aaron Swartz:
 
 Being silly and doing silly things with my daughter is certainly one of my favorite pastimes. When I'm not doing that I'm flying an aircraft or at least trying to - I'm currently in the process of getting my pilot licence. Once I have accomplished this (which given the difficulty of, you know, flying would be one of my major life achievements) I'm hoping to buy a beautiful [Cirrus SR22](https://cirrusaircraft.com/aircraft/sr22/) or an [Extra 300](https://www.extraaircraft.com/) so I can visit each country on this planet by flying there with my own aircraft. Yeah, I said that unironically ;)
 
-Other than that I have been training Brazilian jiu-jitsu for quite a few years now and still do so even though I really suck at it. And finally I love math and physics (all sciences really, but you gotta make some concessions since you can't do it all) and am studying math on the side being enrolled in a remote university.
+Other than that I have been training Brazilian jiu-jitsu for quite a few years now and still do so even though I really suck at it. I also play guitar whenever I feel like it. And finally I love math and physics (all sciences really, but you gotta make some concessions since you can't do it all) and am studying math on the side being enrolled in a remote university.
 
 ## [Voluntary work](#voluntary-work)
 
