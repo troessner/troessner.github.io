@@ -96,15 +96,16 @@ We are on a mission to empower Creators through technology. Starting with educat
 The great irony is that people don’t enjoy education, but they love learning.
 We believe that Creators can fix that gap with better technology and world-class learning experiences.
 
-#### January 2021 - July 2021 / CTO for hire
+#### March 2021 - July 2021 / CTO for hire
 
 Freelancing.
 
-#### Oct 2018 – January 2021 / Senior Director of Engineering
+#### Oct 2018 – March 2021 / Senior Director of Engineering
 
 [Toptal](https://www.toptal.com/)
 
-Toptal is an exclusive network of the top freelance software developers, designers, finance experts, product managers, and project managers in the world. Top companies rely on Toptal freelancers for their most important projects.
+Toptal is an exclusive network of the top freelance software developers, designers, finance experts, product managers, and project managers in the world. Top companies rely on Toptal freelancers for their most important projects. I was responsible for all product related development teams (around 150 developers, 25 teams) and making sure that we build the right things at the right time.
+
 
 #### Jan 2018 – Sept 2018 / Engineering Manager
 
