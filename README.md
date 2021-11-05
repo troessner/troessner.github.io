@@ -2,7 +2,7 @@
 
 ## [Hey There](#hey-there)
 
-I'm a software developer turned leader living in Berlin. I have spent almost all of my professional life in startups and probably wouldn't last 1 week in a traditional corporation. I'm currently working as the Head of Engineering for Nas Academy to change education all around the world. If you're just interested in my leadership philosophy and principles check out [this presentation](https://docs.google.com/presentation/d/1Nr0h7Jcgw_eegRKEmy3EHvU9fKLtVGLe3u6BEFa9H9U/edit?usp=sharing).
+I'm a software developer turned leader living in Berlin. I have spent almost all of my professional life in startups ranging from early stage to unicorn size. I'm currently working as the Head of Engineering for Nas Academy to change education all around the world. If you're just interested in my leadership philosophy and principles check out [this presentation](https://docs.google.com/presentation/d/1Nr0h7Jcgw_eegRKEmy3EHvU9fKLtVGLe3u6BEFa9H9U/edit?usp=sharing).
 
 ## [My inspirations](#my-inspirations)
 
