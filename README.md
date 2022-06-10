@@ -89,17 +89,11 @@ I have been fully focused on management for the last couple of years or so but b
 
 ## [Professional experience](#professional-experience)
 
-#### July 2021 - Present / Head of Engineering
+#### Dec 2021 - Present / CTO
 
-[Nas Academy](https://nasacademy.com/)
+[MedKitDoc]([https://nasacademy.com/](https://medkitdoc.de/en)
 
-We are on a mission to empower Creators through technology. Starting with education.
-The great irony is that people don’t enjoy education, but they love learning.
-We believe that Creators can fix that gap with better technology and world-class learning experiences.
-
-#### March 2021 - July 2021 / CTO for hire
-
-Freelancing.
+We strive for a world where all people have access to patient-centred, high-quality and digital healthcare regardless of their location. By combining our MedKitDoc App, trained specialists and our MedKit with certified medical devices, we are creating a completely new way of remote treatment.
 
 #### Oct 2018 – March 2021 / Senior Director of Engineering
 
