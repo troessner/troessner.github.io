@@ -91,7 +91,7 @@ I have been fully focused on management for the last couple of years or so but b
 
 #### Dec 2021 - Present / CTO
 
-[MedKitDoc]([https://nasacademy.com/](https://medkitdoc.de/en)
+[MedKitDoc](https://medkitdoc.de/en)
 
 We strive for a world where all people have access to patient-centred, high-quality and digital healthcare regardless of their location. By combining our MedKitDoc App, trained specialists and our MedKit with certified medical devices, we are creating a completely new way of remote treatment.
 
