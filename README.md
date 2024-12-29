@@ -6,12 +6,76 @@ I have been a software developer and engineering leader for more than 2 decades 
 I have spent almost all of my professional life in international startups with a strong focus on engineering culture and productivity.
 I excel at building the right teams with the right culture and then scale them up as the business grows.
 
+## [What I am doing professionally](#what-i-am-doing-professionally)
+
+- Coding & Mentoring (I do like pair programming)
+- Leadership coaching
+- Goal setting both on a team level and on a department-wide scale
+- Strategic initiatives, e.g. career development, career ladder, technical and managerial initiatives across the engineering department
+- Team building
+- Boosting team productivity and happiness
+
+## [What I bring to the table](#what-i-bring-to-the-table)
+
+- Excellence in software engineering. I’m obsessed with code quality and writing elegant, maintainable code. I am a regular open source contributor and maintainer of a couple of more or less popular Ruby gems. Most notably of the awesome [Reek](https://github.com/troessner/reek) gem - check out [my github profile](https://github.com/troessner/) for more. Additionally you can find quite a few mostly technical articles on [my blog](https://troessner.github.io/articles/).
+ 
+- Building up teams by recruiting the best people. I'd go as far as to say that team play is 10 times more important than "being an expert" since it's far easier to become good at something than transitioning from being a "Rockstar developer" to somebody who can carry and motivate a team. You can read up on my recruiting philosophy [here](https://troessner.github.io/articles/2016-08-15-the-rockstar-ninja-coder-and-you.html).
+
+- Motivation and the passion to motivate others: I believe that vision and purpose on the high level, clear responsibilities and maximum autonomy are the keys to high productivity and happiness.
+
+- The passion to create something that might change the world.
+
+
+## [Technologies I have worked with](#technologies-i-have-worked-with)
+
+
+- Languages: There's hardly a language I can't find anything positive about it. I have worked with a lot of dynamic languages like Ruby, PHP, Python, javascript and static languages like Java. I also like esoteric languages like brainf**k or whitespace for the fun of it.
+- Databases: Over the course of the years I have worked with good old SQL databases (PostgreSQL, mySQL), NoSQL databases (Redis and friends) and Big Data databases (Hbase / Hadoop).
+- I spent the majority of my career focusing on backend development (mostly API / SOA environments) but have spent enough time in frontend and mobile development to know my way around.
+- Other than that I like and have worked with Amazon cloud, google cloud, git, test driven / behaviour driven development and [domain driven design](https://en.wikipedia.org/wiki/Domain-driven_design).
+
+
+## [Professional experience](#professional-experience)
+
+### Jan 2023 - Recent / CTO
+
+[AdAstra](https://www.adastra.eco/)
+
+Our team of sustainability experts support food manufacturers, agricultural commodity traders, financial institutions, NGOs and government agencies to understand their land conversion risks and reduction opportunities using best-available data. We do a lot of big data crunching using Python and Google Cloud.
+
+### April 2021 - Dec 2022 / Interim CTO & Software Developer
+
+Consulting startups across all stages of growth. In smaller startups this usually means hands-on coding, in bigger ones my role is often close or equal to that of an interim CTO focusing on leadership coaching, goal setting, strategic initiatives and team building.
+
+### Oct 2018 – March 2021 / Senior Director of Engineering
+
+[Toptal](https://www.toptal.com/)
+
+Toptal is an exclusive network of the top freelance software developers, designers, finance experts, product managers, and project managers in the world. Top companies rely on Toptal freelancers for their most important projects. I was responsible for all product related development teams (around 150 developers, 25 teams) and making sure that we build the right things at the right time.
+
+### Oct 2016 – Dec 2017 / Director of Software Engineering
+
+[Planet](https://www.planet.com/), Berlin (Germany)
+
+Planet builds, ships and operates the biggest satellite fleet in the history of mankind. As director of software engineering I was responsible for building and scaling the software engineering team, develop new and innovative analytical products on top of our vasts amount of data and maintaining our existing production systems. Planet has a strong philanthropic aspect to everything it does and we're always helping communities and researchers to make use of our data in the best way possible.
+
+### March 2014 – Sept 2016 / Director of Software Engineering
+
+[Blacklane](https://www.blacklane.com/en), Berlin (Germany)
+
+Blacklane is a ride-hailing service that is working world wide with the highest aspirations in regards to quality and customer satisfaction. As director of software engineering I was responsible for scaling the team from 10 to 30 developers, change the underlying architecture to be more microservice focused and evangelize new technologies and clean code conventions.
+
+### 2002 – 2014 / Freelance Software Developer
+
+A lot of freelancing in the Berlin startup eco system mostly working with dynamic languages like Ruby, Python and Javascript.
+
+
 
 ## [My inspirations](#my-inspirations)
 
 There are many inspirations and inspirational people in my life:
 
-* I am a pretty bad hobby mathematician with some of my idols being [Euclid](https://en.wikipedia.org/wiki/Euclid), [Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan) and [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) for the [Monstrous moonshine](https://en.wikipedia.org/wiki/Monstrous_moonshine) conjecture.
+* I am a (terrible) hobby mathematician with some of my idols being [Euclid](https://en.wikipedia.org/wiki/Euclid), [Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan) and [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) for the [Monstrous moonshine](https://en.wikipedia.org/wiki/Monstrous_moonshine) conjecture.
 
 - I'm fascinated by the early 20th century, which means more or less everybody that attended the [1927 Solvay conference](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Solvay_conference_1927.jpg/700px-Solvay_conference_1927.jpg), Albert Einstein, Max Planck, Nils Bohr, Marie Curie...
 
@@ -40,76 +104,6 @@ Other than that I have been training Brazilian jiu-jitsu for quite a few years n
 
 * I have a Bachelor of Science in Bioinformatics from the [Freie Universität Berlin](http://www.fu-berlin.de/en/index.html) in 2005.
 * I am currently studying mathematics on the side with the final goal of getting a PHD.
-
-## [What I am doing professionally](#what-i-am-doing-professionally)
-
-What I am doing professionally can best be summarised with Team building &[Blitzscaling](https://hbr.org/2016/04/blitzscaling): 
-
-> Blitzscaling is what you do when you need to grow really, really quickly. It’s the science and art of rapidly building out a company to serve a large and usually global market, with the goal of becoming the first mover at scale.
-
-This happens mostly in a software engineering context but is naturally not limited to it - I am used to collaborate closely and contribute to HR, recruiting, marketing and sales.
-
-Recurring activities for me are:
-
-- Leadership coaching
-- Goal setting both on a team level and on a department-wide scale
-- Strategic initiatives, e.g. career development, career ladder, technical and managerial initiatives across the engineering department
-- Team building
-- Boosting team productivity and happiness
-
-## [What I bring to the table](#what-i-bring-to-the-table)
-
-- A love for people management and seeing them realize their full potential. 
-
-- Building up teams by recruiting the best people. I'd go as far as to say that team play is 10 times more important than "being an expert" since it's far easier to become good at something than transitioning from being a douche to somebody who can carry and motivate a team. You can read up on my recruiting philosophy [here](https://troessner.github.io/articles/2016-08-15-the-rockstar-ninja-coder-and-you.html).
-
-- Motivation and the passion to motivate others: I believe that vision and purpose on the high level, clear responsibilities and maximum autonomy are the keys to high productivity and happiness.
-
-- The passion to create something that might change the world.
-
-- Excellence in software engineering. I’m obsessed with code quality and writing elegant, maintainable code. I am a regular open source contributor and maintainer of a couple of more or less popular Ruby gems. Most notably of the awesome [Reek](https://github.com/troessner/reek) gem - check out [my github profile](https://github.com/troessner/) for more. Additionally you can find quite a few mostly technical articles on [my blog](https://troessner.github.io/articles/).
-
-## [Technologies I have worked with](#technologies-i-have-worked-with)
-
-I have been fully focused on management for the last couple of years or so but back in the day I was a software developer working with a variety of technologies:
-
-- Languages: There's hardly a language I can't find anything positive about it. I have worked with a lot of dynamic languages like Ruby, PHP, Python, javascript and static languages like Java. I also like esoteric languages like brainfuck or whitespace for the fun of it.
-- Databases: Over the course of the years I have worked with good old SQL databases (PostgreSQL, mySQL), NoSQL databases (Redis and friends) and Big Data databases (Hbase / Hadoop).
-- I spent the majority of my career focusing on backend development (mostly API / SOA environments) but have spent enough time in frontend and mobile development to know my way around.
-- Other than that I like and have worked with Amazon cloud, google cloud, git, git branches (yes!), test driven / behaviour driven development and [domain driven design](https://en.wikipedia.org/wiki/Domain-driven_design).
-
-
-## [Professional experience](#professional-experience)
-
-### Jan 2023 - Recent / CTO
-
-[AdAstra](https://www.adastra.eco/)
-
-### April 2021 - Dec 2022 / Interim CTO & Software Developer
-
-Freelancing as an Interim CTO & Software Developer. 
-
-### Oct 2018 – March 2021 / Senior Director of Engineering
-
-[Toptal](https://www.toptal.com/)
-
-Toptal is an exclusive network of the top freelance software developers, designers, finance experts, product managers, and project managers in the world. Top companies rely on Toptal freelancers for their most important projects. I was responsible for all product related development teams (around 150 developers, 25 teams) and making sure that we build the right things at the right time.
-
-### Oct 2016 – Dec 2017 / Director of Software Engineering
-
-[Planet](https://www.planet.com/), Berlin (Germany)
-
-Planet builds, ships and operates the biggest satellite fleet in the history of mankind. As director of software engineering I was responsible for building and scaling the software engineering team, develop new and innovative analytical products on top of our vasts amount of data and maintaining our existing production systems. Planet has a strong philanthropic aspect to everything it does and we're always helping communities and researchers to make use of our data in the best way possible.
-
-### March 2014 – Sept 2016 / Director of Software Engineering
-
-[Blacklane](https://www.blacklane.com/en), Berlin (Germany)
-
-Blacklane is a ride-hailing service that is working world wide with the highest aspirations in regards to quality and customer satisfaction. As director of software engineering I was responsible for scaling the team from 10 to 30 developers, change the underlying architecture to be more microservice focused and evangelize new technologies and clean code conventions.
-
-### 2002 – 2014 / Freelance Software Developer
-
-A lot of freelancing in the Berlin startup eco system mostly working with dynamic languages like Ruby, Python and Javascript.
 
 ## [Contact](#contact)
 
