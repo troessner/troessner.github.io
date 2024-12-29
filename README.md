@@ -2,28 +2,20 @@
 
 ## [Hey There](#hey-there)
 
-I have been a software developer for more than a decade (and still am proud open source maintainer of the awesome [Reek gem](https://github.com/troessner/reek) gem) before I became a leader. I have spent almost all of my professional life in international startups with a strong focus on product and execution.
-
+I have been a software developer and engineering leader for more than 2 decades and still am the proud open source maintainer of the awesome [Reek gem](https://github.com/troessner/reek) gem.
+I have spent almost all of my professional life in international startups with a strong focus on engineering culture and productivity.
 I excel at building the right teams with the right culture and then scale them up as the business grows.
 
-If you're just interested in my leadership philosophy and principles check out [this presentation](https://docs.google.com/presentation/d/1Nr0h7Jcgw_eegRKEmy3EHvU9fKLtVGLe3u6BEFa9H9U/edit?usp=sharing).
 
 ## [My inspirations](#my-inspirations)
 
 There are many inspirations and inspirational people in my life:
 
-- Mathematicians. My top 3:
-    1. [Euclid](https://en.wikipedia.org/wiki/Euclid). In particular I love his proof that [there are infinitely many primes](https://primes.utm.edu/notes/proofs/infinite/euclids.html) and I always like to think of this as the beginning of modern maths (I'm probably completely wrong but who cares).
-    2. [Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan) who died too soon to become a second Euler.
-    3. [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) for the [Monstrous moonshine](https://en.wikipedia.org/wiki/Monstrous_moonshine) conjecture.
+* I am a pretty bad hobby mathematician with some of my idols being [Euclid](https://en.wikipedia.org/wiki/Euclid), [Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan) and [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) for the [Monstrous moonshine](https://en.wikipedia.org/wiki/Monstrous_moonshine) conjecture.
 
-- Physicists. I'm fascinated by the early 20th century, which means more or less everybody that attended the [1927 Solvay conference](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Solvay_conference_1927.jpg/700px-Solvay_conference_1927.jpg), Albert Einstein, Max Planck, Nils Bohr, Marie Curie...
-
-- AI scientists like [Yann LeCun](http://yann.lecun.com/), [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/) or [Andrew Ng](http://www.andrewng.org/)
+- I'm fascinated by the early 20th century, which means more or less everybody that attended the [1927 Solvay conference](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Solvay_conference_1927.jpg/700px-Solvay_conference_1927.jpg), Albert Einstein, Max Planck, Nils Bohr, Marie Curie...
 
 - Psychologists and motivational speakers like [Tony Robbins](https://www.ted.com/talks/tony_robbins_asks_why_we_do_what_we_do) or [Carol Dweck](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve#t-73105)
-
-- Entrepreneurs like [Tony Hsieh](https://en.wikipedia.org/wiki/Tony_Hsieh) or [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk). I know it's lame but I also believe Steve Jobs was a genius :)
 
 - Inventors like [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) or [Thomas Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
 
@@ -33,9 +25,9 @@ My favourite inspirational quote is from Aaron Swartz:
 
 ## [My interests](#my-interests)
 
-Playing videogames with my daughter is certainly one of my favorite pastimes. When I'm not doing that I'm flying an aircraft or at least trying to - I'm currently in the process of getting my pilot licence. I'm hoping to buy a beautiful [Cirrus SR22](https://cirrusaircraft.com/aircraft/sr22/) or an [Extra 300](https://www.extraaircraft.com/) so I can visit each country on this planet by flying there with my own aircraft. Yeah, I said that unironically ;)
+Playing videogames with my daughter is certainly one of my favorite pastimes. When I'm not doing that I'm flying an aircraft or at least trying to - I'm currently in the process of getting my pilot licence. I'm hoping to buy a beautiful [Cirrus SR22](https://cirrusaircraft.com/aircraft/sr22/) or an [Extra 300](https://www.extraaircraft.com/) so I can visit each country on this planet by flying there with my own aircraft.
 
-Other than that I have been training Brazilian jiu-jitsu for quite a few years now and still do so even though I really suck at it. I also play guitar whenever I feel like it. And finally I love math and physics (all sciences really, but you gotta make some concessions since you can't do it all) and am studying math on the side being enrolled in a remote university.
+Other than that I have been training Brazilian jiu-jitsu for quite a few years now and still do so. And finally, I love math and physics and am studying math on the side being enrolled in a remote university.
 
 ## [Voluntary work](#voluntary-work)
 
@@ -73,9 +65,9 @@ Recurring activities for me are:
 
 - Motivation and the passion to motivate others: I believe that vision and purpose on the high level, clear responsibilities and maximum autonomy are the keys to high productivity and happiness.
 
-- The passion to create something that might change change the world. I don't care much for money - my motivation lies elsewhere. This doesn't mean that I work for free, just that I value other things more.
+- The passion to create something that might change the world.
 
-- Excellence in software engineering. I’m obsessed with code quality and writing elegant, maintainable code. I am a regular open source contributor and maintainer of a couple of more or less popular gems. Most notably of the awesome [Reek](https://github.com/troessner/reek) gem - check out [my github profile](https://github.com/troessner/) for more. Additionally you can find quite a few mostly technical articles on [my blog](https://troessner.github.io/articles/).
+- Excellence in software engineering. I’m obsessed with code quality and writing elegant, maintainable code. I am a regular open source contributor and maintainer of a couple of more or less popular Ruby gems. Most notably of the awesome [Reek](https://github.com/troessner/reek) gem - check out [my github profile](https://github.com/troessner/) for more. Additionally you can find quite a few mostly technical articles on [my blog](https://troessner.github.io/articles/).
 
 ## [Technologies I have worked with](#technologies-i-have-worked-with)
 
@@ -89,44 +81,33 @@ I have been fully focused on management for the last couple of years or so but b
 
 ## [Professional experience](#professional-experience)
 
-#### Dec 2021 - Present / CTO
+### Jan 2023 - Recent / CTO
 
-[MedKitDoc](https://medkitdoc.de/en)
+[AdAstra](https://www.adastra.eco/)
 
-We strive for a world where all people have access to patient-centred, high-quality and digital healthcare regardless of their location. By combining our MedKitDoc App, trained specialists and our MedKit with certified medical devices, we are creating a completely new way of remote treatment.
+### April 2021 - Dec 2022 / Interim CTO & Software Developer
 
-#### Oct 2018 – March 2021 / Senior Director of Engineering
+Freelancing as an Interim CTO & Software Developer. 
+
+### Oct 2018 – March 2021 / Senior Director of Engineering
 
 [Toptal](https://www.toptal.com/)
 
 Toptal is an exclusive network of the top freelance software developers, designers, finance experts, product managers, and project managers in the world. Top companies rely on Toptal freelancers for their most important projects. I was responsible for all product related development teams (around 150 developers, 25 teams) and making sure that we build the right things at the right time.
 
-
-#### Jan 2018 – Sept 2018 / Engineering Manager
-
-[ResearchGate](https://www.researchgate.net/), Berlin (Germany)
-
-ResearchGate is changing how scientists share and advance science. It is built by scientists, for scientists. Our mission is to connect the world of science and make research open to all.
-
-#### Oct 2016 – Dec 2017 / Director of Software Engineering
+### Oct 2016 – Dec 2017 / Director of Software Engineering
 
 [Planet](https://www.planet.com/), Berlin (Germany)
 
 Planet builds, ships and operates the biggest satellite fleet in the history of mankind. As director of software engineering I was responsible for building and scaling the software engineering team, develop new and innovative analytical products on top of our vasts amount of data and maintaining our existing production systems. Planet has a strong philanthropic aspect to everything it does and we're always helping communities and researchers to make use of our data in the best way possible.
 
-#### March 2014 – Sept 2016 / Director of Software Engineering
+### March 2014 – Sept 2016 / Director of Software Engineering
 
 [Blacklane](https://www.blacklane.com/en), Berlin (Germany)
 
 Blacklane is a ride-hailing service that is working world wide with the highest aspirations in regards to quality and customer satisfaction. As director of software engineering I was responsible for scaling the team from 10 to 30 developers, change the underlying architecture to be more microservice focused and evangelize new technologies and clean code conventions.
 
-#### April 2013 – Feb 2014 / Senior Software Developer
-
-[Hitfox Group](http://www.hitfoxgroup.com/), Berlin (Germany)
-
-The Hitfox Group is a company builder and accelerator in the Berlin startup ecosystem. As senior software developer I was working on high load production services and new products.
-
-#### 2002 – 2013 / Freelance Software Developer
+### 2002 – 2014 / Freelance Software Developer
 
 A lot of freelancing in the Berlin startup eco system mostly working with dynamic languages like Ruby, Python and Javascript.
 
