@@ -2,7 +2,7 @@
 
 ## [Hey There](#hey-there)
 
-I have been a software developer and engineering leader for more than 2 decades and still am the proud open source maintainer of the awesome [Reek gem](https://github.com/troessner/reek) gem.
+I have been a software developer and engineering leader for more than 2 decades and still am the proud open source maintainer of the awesome [Reek gem](https://github.com/troessner/reek).
 I have spent almost all of my professional life in international startups with a strong focus on engineering culture and productivity.
 I excel at building the right teams with the right culture and then scale them up as the business grows.
 
@@ -32,7 +32,7 @@ I excel at building the right teams with the right culture and then scale them u
 - Languages: There's hardly a language I can't find anything positive about it. I have worked with a lot of dynamic languages like Ruby, PHP, Python, javascript and static languages like Java. I also like esoteric languages like brainf**k or whitespace for the fun of it.
 - Databases: Over the course of the years I have worked with good old SQL databases (PostgreSQL, mySQL), NoSQL databases (Redis and friends) and Big Data databases (Hbase / Hadoop).
 - I spent the majority of my career focusing on backend development (mostly API / SOA environments) but have spent enough time in frontend and mobile development to know my way around.
-- Other than that I like and have worked with Amazon cloud, google cloud, git, test driven / behaviour driven development and [domain driven design](https://en.wikipedia.org/wiki/Domain-driven_design).
+- In terms of cloud computing, I have had my fair share of the big ones - Google, AWS, Azure. My personal preference is Google Cloud and if you don't need to horsepower I'd almost always give the nod to heroku which I consider an awesome alternative for small to medium startups.
 
 
 ## [Professional experience](#professional-experience)
